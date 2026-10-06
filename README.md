@@ -20,4 +20,4 @@ I'm looking for **computational biology, bioinformatics and data science** roles
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/ramtin-mashhoon-414665352) · ramtinm@gwu.edu
+[LinkedIn](https://www.linkedin.com/in/ramtin-mashhoon-414665352) · ramtinmt@yahoo.ca
