@@ -14,9 +14,9 @@ I'm looking for **computational biology, bioinformatics and data science** roles
 
 ### Tools
 
-**Python:** pandas, NumPy, scikit-learn, Scanpy, scvi-tools, matplotlib, seaborn
-**R:** Seurat, CellChat, Slingshot, Monocle, ggplot2
-**Other:** Git, Bash, SLURM/HPC, conda, Jupyter
+- **Python:** pandas, NumPy, scikit-learn, Scanpy, scvi-tools, matplotlib, seaborn
+- **R:** Seurat, CellChat, Slingshot, Monocle, ggplot2
+- **Other:** Git, Bash, SLURM/HPC, conda, Jupyter
 
 ### Contact
 
